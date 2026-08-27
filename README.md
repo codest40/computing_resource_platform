@@ -11,8 +11,6 @@ These projects are designed to be reusable building blocks that can be incorpora
 ```
 .
 ├── observer/
-├── app/
-├── policy/
 ├── kubernetes/
 ├── /
 └── ...
